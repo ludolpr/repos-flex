@@ -219,7 +219,7 @@ header {
     width: 100%;
     margin-top: 5em;
     background-color: aquamarine;
-    background-image: linear-gradient(rgba(13, 108, 185, 0.158), rgba(15, 45, 214, 0.6)),url("./images/kak-uznat-gde-nahoditsja-chelovek-po-nomeru_3.webp");
+    background-image: linear-gradient(rgba(13, 108, 185, 0.158), rgba(15, 45, 214, 0.6)),src="./images/kak-uznat-gde-nahoditsja-chelovek-po-nomeru_3.webp";
     background-size: cover;
     background-position: center;
     height: 80vh;
